@@ -5,7 +5,7 @@ import routes from '../routes';
 import { Route, Switch } from 'react-router-dom';
 
 const Layout = props => {
-  const [active, setActive] = useState({});
+  const [, setActive] = useState({});
   const src = "https://i.pravatar.cc/75?img=2";
   
   function isActive(href) {
