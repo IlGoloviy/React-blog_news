@@ -1,4 +1,4 @@
-# test application on *React* for wwwest.solutions
+# blog with news on *React* for wwwest.solutions
 
 ### run the following commands to run:
 
@@ -13,4 +13,4 @@ npm run start
 + page **profile** - a page that cannot be accessed by an unauthorized user (who is then asked to enter authorization information)
 + page **login** - when a user enters incorrect data (by default [username=admin] and [password=12345]) it tells him that the data is incorrect
 
-![alt text](https://cdn1.savepice.ru/uploads/2020/1/25/b067107a035a5fd5d96cd58dc59a30db-full.jpg)
+![alt text](https://github.com/IlGoloviy/React-blog_news/raw/master/src/image.jpg)
