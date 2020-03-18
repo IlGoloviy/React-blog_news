@@ -1,4 +1,4 @@
-# blog with news on *React* for wwwest.solutions
+# blog with news on *React* for [wwwest.solutions](http://wwwest.solutions/)
 
 ### run the following commands to run:
 
