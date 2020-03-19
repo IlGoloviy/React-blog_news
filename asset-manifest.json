@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-blog_news/static/css/main.5928496d.chunk.css",
+    "main.js": "/React-blog_news/static/js/main.c0715351.chunk.js",
+    "main.js.map": "/React-blog_news/static/js/main.c0715351.chunk.js.map",
+    "runtime-main.js": "/React-blog_news/static/js/runtime-main.bf69157f.js",
+    "runtime-main.js.map": "/React-blog_news/static/js/runtime-main.bf69157f.js.map",
+    "static/js/2.0d8217cc.chunk.js": "/React-blog_news/static/js/2.0d8217cc.chunk.js",
+    "static/js/2.0d8217cc.chunk.js.map": "/React-blog_news/static/js/2.0d8217cc.chunk.js.map",
+    "index.html": "/React-blog_news/index.html",
+    "precache-manifest.d9fefdf09a5cdd78a4426e5680566437.js": "/React-blog_news/precache-manifest.d9fefdf09a5cdd78a4426e5680566437.js",
+    "service-worker.js": "/React-blog_news/service-worker.js",
+    "static/css/main.5928496d.chunk.css.map": "/React-blog_news/static/css/main.5928496d.chunk.css.map",
+    "static/js/2.0d8217cc.chunk.js.LICENSE.txt": "/React-blog_news/static/js/2.0d8217cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf69157f.js",
+    "static/js/2.0d8217cc.chunk.js",
+    "static/css/main.5928496d.chunk.css",
+    "static/js/main.c0715351.chunk.js"
+  ]
+}
