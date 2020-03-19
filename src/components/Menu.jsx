@@ -5,7 +5,7 @@ const Menu = props => {
   return (
     <nav className="menu">
       <Link to="/" className="menu-logo">
-        <img src={props.src} />
+        <img src={props.src} alt="logo" />
       </Link>
       <ul className="menu-items">
         {props.children}  

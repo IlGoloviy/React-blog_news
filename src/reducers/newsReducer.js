@@ -30,8 +30,9 @@ export default function reducer(state = {
           news: [action.payload, ...state.news]
         }
       }
-      
+      default: {
+        return state;
+      }
     }
   
-    return state;
   }
